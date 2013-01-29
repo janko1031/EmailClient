@@ -1,1 +1,1 @@
-THis is basci email client
+This is basic email client
