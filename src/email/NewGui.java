@@ -49,7 +49,7 @@ public class NewGui extends JFrame {
 	JTextField from;
 	JTextField to;
 	JTextField subject;
-	// JTextArea textArea;
+
 	String sub;
 	String mailTo;
 	String mailFrom;
